@@ -1,0 +1,6 @@
+2022-02-14T08:18:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\phpproject\htdocs\little_lemon\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-02-14T08:24:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\phpproject\htdocs\little_lemon\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-02-14T08:27:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\phpproject\htdocs\little_lemon\wp-includes\Requests\Transport\cURL.php on line 484
+
